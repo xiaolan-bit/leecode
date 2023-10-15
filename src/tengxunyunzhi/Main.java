@@ -1,11 +1,7 @@
-
-package p198;
-import java.util.Arrays;
-import java.util.HashMap;
+package tengxunyunzhi;
 
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("Hello world!");
     }
-
 }
